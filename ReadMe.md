@@ -16,4 +16,5 @@ To run this application, do the following:
    Message has been sent successfully , 
    key: 0 and the value is {"orderEventId":0,
    "order":{"orderId":12,"orderCode":"AD_DIGI"}} and partition is 1
-10. Now refer the consumer application in github and follow the instruction
+10. Now refer the consumer application in github 
+    https://github.com/amitwipro/kafkaConsumerPart1.git and follow the instruction there
